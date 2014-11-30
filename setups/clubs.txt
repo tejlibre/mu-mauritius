@@ -1,5 +1,4 @@
 #########
 # Clubs
 
-en-england!/clubs
-en-england!/clubs_2
+mu-mauritius!/clubs
