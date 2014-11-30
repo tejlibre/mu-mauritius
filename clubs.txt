@@ -1,133 +1,75 @@
 ####################################
-# English Premier League Teams
+# Mauritius Premier League Teams
 
-
-## note: three letter codes (tags) taken from official premierleague.com site 
-
-[chelsea]
-  Chelsea|Chelsea FC|FC Chelsea, 1905, CHE
-  // London
-  www.chelseafc.com
-  wikipedia: Chelsea_F.C.
-
-[arsenal]
-  Arsenal|Arsenal FC|FC Arsenal,  1886, ARS
-  // London
-  www.arsenal.com
-  wikipedia: Arsenal_F.C.
-
-
-[tottenham]
-  Tottenham Hotspur|Tottenham|Spurs, 1882 TOT
-  // London
-  www.tottenhamhotspur.com
-  wikipedia: Tottenham_Hotspur_F.C.
+[joachim]
+  Cercle de Joachim SC|Cercle de Joachim|Joachim, 2000, CDJ
+  // Curepipe
   
-[westham]
-  West Ham United|West Ham, 1895, WHU
-  // London
-  www.whufc.com
-  wikipedia: West_Ham_United_F.C.
+  wikipedia: Cercle_de_Joachim
 
-[qpr]
-  Queens Park Rangers|Queens Park Rangers FC|QPR, 1882, QPR
-  // London
-  www.qpr.co.uk
-  wikipedia: Queens_Park_Rangers_F.C.
-
-[crystalpalace]
-  Crystal Palace|C Palace|Palace, 1905, CRY
-  // London
-  www.cpfc.co.uk
-  wikipedia: Crystal_Palace_F.C.
+[chamarel]
+  Chamarel|Chamarel FC|Chamarel SC,  2000, CHSC
+  // Chamarel
+  
+  wikipedia: Chamarel_FC
 
 
+[curepipesc]
+  Curepipe Starlight SC|Curepipe SC|Starlight, 2000 CSSC
+  // Curepipe
+  
+  wikipedia: Curepipe_SC
+  
+[ententebouletrouge]
+  Entente Boulet Rouge SC|Entente Boulet Rouge|Entente Boulet Rouge-Riche Mare Rovers, 2000, EBRRMR
+  // Flacq
+  
+  wikipedia: Entente_Boulet_Rouge
 
-[manutd]
-  Manchester United|Man Utd|Manchester U., 1878,  MUN
-  // Manchester
-  www.manutd.com
-  wikipedia: Manchester_United_F.C.
+[lacuresylvester]
+  La Cure Sylvester|La Cure Sylvester SC, 2000, LCSSC
+  // Cite La Cure
+  
+  wikipedia: 
 
-[mancity]
-  Manchester City|Man City|Man. City, 1880, MCI
-  // Manchester
-  www.mcfc.co.uk
-  wikipedia: Manchester_City_F.C.
-
-
-[everton]
-  Everton|Everton FC|FC Everton, 1878, EVE
-  // Liverpool
-  www.evertonfc.com
-  wikipedia: Everton_F.C.
-
-[liverpool]
-  Liverpool|Liverpool FC|FC Liverpool, 1892, LIV
-  // Liverpool
-  www.liverpoolfc.com
-  wikipedia: Liverpool_F.C.
+[pamplemousses]
+  Pamplemousses SC|Pamplemousses, 2000, PPMSC
+  // Pamplemousses
+  
+  wikipedia: Pamplemousses_SC
 
 
-[westbrom]
-  West Bromwich Albion|West Brom|Albion, 1878, WBA
-  // West Bromwich
-  www.wba.co.uk
-  wikipedia: West_Bromwich_Albion_F.C.
 
-[newcastle]
-  Newcastle United|Newcastle, 1892, NEW
-  // Newcastle upon Tyne
-  www.nufc.co.uk
-  wikipedia: Newcastle_United_F.C.
+[petiteriviere]
+  Petite Riviere Noire|Petite Rivière Noire SC|Petite Riviere, 2000,  PRNFC
+  // Petite Rivière Noire
+  
+  wikipedia: Petite_Rivière_Noire_SC
 
-[stoke]
-  Stoke City|Stoke, 1863,  STK
-  // Stoke-on-Trent
-  www.stokecityfc.com
-  wikipedia: Stoke_City_F.C.
-
-[sunderland]
-  Sunderland|Sunderland AFC|AFC Sunderland, 1879, SUN
-  // Sunderland
-  www.safc.com
-  wikipedia: Sunderland_A.F.C.
-
-[astonvilla]
-  Aston Villa|Villa, 1874, AVL
-  // Birmingham
-  www.avfc.co.uk
-  wikipedia: Aston_Villa_F.C.
-
-[southampton]
-  Southampton|Southampton FC|FC Southampton, 1885, SOU
-  // Southampton
-  www.saintsfc.co.uk
-  wikipedia: Southampton_F.C.
+[aspl2000]
+  ASPL2000|Port-Louis 2000|AS Port-Louis 2000, 2000, ASPL2000
+  // Port Louis
+  
+  wikipedia: AS_Port-Louis_2000
 
 
-[hull]
-  Hull City|Hull, 1904, HUL
-  // Kingston upon Hull
-  www.hullcitytigers.com
-  wikipedia: Hull_City_A.F.C.
+[quatrebornes]
+  AS Quatre Bornes|Quatre Bornes, 2000, ASQB
+  // Quatre Bornes
+  
+  wikipedia: AS_Quatre_Bornes
 
-[leicester]
-  Leicester City|Leicester|Leicester City FC, 1884, LEI
-  // Leicester
-  www.lcfc.com
-  wikipedia: Leicester_City_F.C.
+[Rempart]
+  Riviere du Rempart|AS Riviere Du Rempart|FC Liverpool, 2000, ASRR
+  // Riviere du Rempart
+  
+  wikipedia: AS_Rivière_du_Rempart
 
-[burnley]
-  Burnley|Burnley FC, 1882, BUR
-  // Burnley
-  www.burnleyfootballclub.com
-  wikipedia: Burnley_F.C.
 
 
 ##
 # note:
 #  changes in 2014/15
-#   ++  Leicester City, Burnley, Queens Park Rangers
-#   --  Cardiff City, Fulham, Norwich City
+#   ++  AS Quatre-Bornes, Burnley, La Cure Sylvester
+#   --  Bolton City Youth Club , AS de Vacoas-Phoenix
 
