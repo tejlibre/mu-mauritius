@@ -1,12 +1,10 @@
 
 # - Leagues
-en-england!/leagues
+mu-mauritius!/leagues
 
 # - Clubs
-en-england!/clubs
-en-england!/clubs_2
-en-england!/clubs_wal
+mu-mauritius!/clubs
 
 # - 2014/15
-en-england!/2014-15/1-premierleague
+mu-mauritius!/2014-15/1-premierleague
 
