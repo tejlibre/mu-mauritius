@@ -60,7 +60,7 @@
   wikipedia: AS_Quatre_Bornes
 
 [Rempart]
-  Riviere du Rempart|AS Riviere Du Rempart|FC Liverpool, 2000, ASRR
+  Riviere du Rempart|AS Riviere Du Rempart, 2000, ASRR
   // Riviere du Rempart
   
   wikipedia: AS_Rivière_du_Rempart
