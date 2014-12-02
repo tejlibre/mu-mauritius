@@ -20,19 +20,19 @@
   
   wikipedia: Curepipe_SC
   
-[ententebouletrouge]
+[entente]
   Entente Boulet Rouge SC|Entente Boulet Rouge|Entente Boulet Rouge-Riche Mare Rovers, 2000, EBRRMR
   // Flacq
   
   wikipedia: Entente_Boulet_Rouge
 
-[lacuresylvester]
+[lacure]
   La Cure Sylvester|La Cure Sylvester SC, 2000, LCSSC
   // Cite La Cure
   
   wikipedia: 
 
-[pamplemousses]
+[pamplemouss]
   Pamplemousses SC|Pamplemousses, 2000, PPMSC
   // Pamplemousses
   
@@ -40,7 +40,7 @@
 
 
 
-[petiteriviere]
+[petiteriv]
   Petite Riviere Noire|Petite Rivière Noire SC|Petite Riviere, 2000,  PRNFC
   // Petite Rivière Noire
   
@@ -53,13 +53,13 @@
   wikipedia: AS_Port-Louis_2000
 
 
-[quatrebornes]
+[qbornes]
   AS Quatre Bornes|Quatre Bornes, 2000, ASQB
   // Quatre Bornes
   
   wikipedia: AS_Quatre_Bornes
 
-[Rempart]
+[rempart]
   Riviere du Rempart|AS Riviere Du Rempart, 2000, ASRR
   // Riviere du Rempart
   
