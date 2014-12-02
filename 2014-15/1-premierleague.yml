@@ -4,7 +4,7 @@
 
 league: en
 season: 2014/15
-start_at: 2014-08-16
+start_at: 2014-11-5
 
 fixtures:
 - 1-premierleague-i
@@ -15,23 +15,14 @@ fixtures:
 # 20 Teams
 
 teams:
-- chelsea
-- manutd
-- mancity
-- everton
-- tottenham
-- westbrom
-- arsenal
-- westham
-- newcastle
-- swansea
-- stoke
-- sunderland
-- liverpool
-- astonvilla
-- southampton
-- hull
-- crystalpalace
-- leicester
-- burnley
-- qpr
+- joachim
+- chamarel
+- curepipesc
+- entente
+- lacure
+- pamplemouss
+- petiteriv
+- aspl2000
+- qbornes
+- rempart
+
