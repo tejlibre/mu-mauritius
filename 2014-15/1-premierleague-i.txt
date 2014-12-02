@@ -1,22 +1,14 @@
 ####################################
 # English Premier League 2014/15
 
-
 Matchday 1
 
-[Sat Aug/16]
-  12.45  Manchester United    1-2  Swansea City
-  15.00  Leicester City       2-2  Everton FC
-  15.00  Queens Park Rangers  0-1  Hull City
-  15.00  Stoke City           0-1  Aston Villa
-  15.00  West Bromwich Albion 2-2  Sunderland AFC
-  15.00  West Ham United      0-1  Tottenham Hotspur
-  17.30  Arsenal FC           2-1  Crystal Palace
-[Sun Aug/17]
-  13.30  Liverpool FC         2-1  Southampton FC
-  16.00  Newcastle United     0-2  Manchester City
-[Mon Aug/18]
-  20.00  Burnley FC           1-3  Chelsea FC
+[Wed Nov/5]
+  16.00  Curepipe Starlight SC  1-3  Petite Rivière Noire SC
+  16.00  AS Quatre Bornes       1-0	 La Cure Sylvester SC
+  16.00  Pamplemousses SC       0-1  AS Riviere Du Rempart
+  16.00  AS Port-Louis 2000     5-1	 Entente Boulet Rouge SC
+  16.00  Chamarel SC            2-3  Cercle de Joachim SC
 
 
 Matchday 2
