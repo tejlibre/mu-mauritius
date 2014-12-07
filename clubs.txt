@@ -15,7 +15,7 @@
 
 
 [curepipesc]
-  Curepipe Starlight SC|Curepipe SC|Starlight, 2000 CSSC
+  Curepipe Starlight SC|Curepipe SC|Starlight, 2000, CSSC
   // Curepipe
   
   wikipedia: Curepipe_SC
@@ -41,10 +41,10 @@
 
 
 [petiteriv]
-  Petite Riviere Noire|Petite Rivière Noire SC|Petite Riviere, 2000,  PRNFC
+  Petite Riviere Noire|Petite Riviere Noire SC|Petite Riviere, 2000,  PRNFC
   // Petite Rivière Noire
   
-  wikipedia: Petite_Rivière_Noire_SC
+  wikipedia: Petite_Riviere_Noire_SC
 
 [aspl2000]
   ASPL2000|Port-Louis 2000|AS Port-Louis 2000, 2000, ASPL2000
