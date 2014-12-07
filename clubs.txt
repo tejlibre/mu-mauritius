@@ -46,7 +46,7 @@
   
   wikipedia: Petite_Riviere_Noire_SC
 
-[aspl2000]
+[aspl]
   ASPL2000|Port-Louis 2000|AS Port-Louis 2000, 2000, APL
   // Port Louis
   
