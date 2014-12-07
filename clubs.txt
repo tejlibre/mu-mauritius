@@ -4,65 +4,52 @@
 [joachim]
   Cercle de Joachim SC|Cercle de Joachim|Joachim, 2000, CDJ
   // Curepipe
-  
   wikipedia: Cercle_de_Joachim
 
 [chamarel]
   Chamarel|Chamarel FC|Chamarel SC,  2000, CHA
   // Chamarel
-  
   wikipedia: Chamarel_FC
 
 
 [curepipesc]
   Curepipe Starlight SC|Curepipe SC|Starlight, 2000, CUR
   // Curepipe
-  
   wikipedia: Curepipe_SC
   
 [entente]
   Entente Boulet Rouge SC|Entente Boulet Rouge|Entente Boulet Rouge-Riche Mare Rovers, 2000, EBR
   // Flacq
-  
   wikipedia: Entente_Boulet_Rouge
 
 [lacure]
   La Cure Sylvester|La Cure Sylvester SC, 2000, LCS
   // Cite La Cure
-  
   wikipedia: 
 
 [pamplemouss]
   Pamplemousses SC|Pamplemousses, 2000, PPM
   // Pamplemousses
-  
   wikipedia: Pamplemousses_SC
-
-
 
 [petiteriv]
   Petite Riviere Noire|Petite Riviere Noire SC|Petite Riviere, 2000,  PRN
   // Petite Rivière Noire
-  
   wikipedia: Petite_Riviere_Noire_SC
 
 [aspl]
   ASPL2000|Port-Louis 2000|AS Port-Louis 2000, 2000, APL
   // Port Louis
-  
   wikipedia: AS_Port-Louis_2000
-
 
 [qbornes]
   AS Quatre Bornes|Quatre Bornes, 2000, AQB
   // Quatre Bornes
-  
   wikipedia: AS_Quatre_Bornes
 
 [rempart]
   Riviere du Rempart|AS Riviere Du Rempart, 2000, ARR
   // Riviere du Rempart
-  
   wikipedia: AS_Rivière_du_Rempart
 
 
